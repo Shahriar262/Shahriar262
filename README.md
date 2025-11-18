@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/PvRn2z6t/Shahriar-Rahman.png" alt="Banner" />
+  <img src="./Shahriar262.png" alt="Banner" />
 </p>
