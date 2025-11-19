@@ -3,7 +3,9 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Shahriar Rahman</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">I'm a passionate Frontend Developer focused on building clean, responsive, and user-friendly web applications. I enjoy turning ideas into real digital experiences using modern web technologies. I love exploring new tools, improving UI/UX, and writing quality code that’s easy to maintain and scale.
+
+I’m constantly learning and improving my skills while working on practical projects. My goal is to become a highly skilled full-stack developer and contribute to impactful open-source and real-world applications.</h3>
 
 
 
